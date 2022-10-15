@@ -1,2 +1,2 @@
-# elixir.github.io
+# elixir
 Public pages
